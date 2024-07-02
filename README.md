@@ -1,4 +1,4 @@
-## hey peeps 👋
+## 👋 hey peeps! 
 
 i'm a driven, excited and versitile software engineer.
 
