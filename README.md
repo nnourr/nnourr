@@ -1,5 +1,8 @@
-## Hi there 👋
+## hey peeps 👋
 
+i'm a driven, excited and versitile software engineer.
+
+find more at [nnourr.tech](nnourr.tech)
 <!--
 **nnourr/nnourr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
