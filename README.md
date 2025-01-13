@@ -1,19 +1,18 @@
 ## 👋 hey peeps! 
 
-i'm a driven, excited and versitile software engineer.
+Soon to be software engineering graduate with experience developing high-impact, scalable software solutions. Skilled
+in creating equally beautiful Frontends and Backends. Project Management, testing and Aglie advocate. 
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=nnourr&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=nnourr&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 find more at [nnourr.tech](nnourr.tech)
-<!--
-**nnourr/nnourr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
