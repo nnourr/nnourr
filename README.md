@@ -1,6 +1,6 @@
 ## 👋 hey peeps! 
 
-Soon to be software engineering graduate with experience developing high-impact, scalable software solutions. Skilled
+Software engineering graduate with experience developing high-impact, scalable software solutions. Skilled
 in creating equally beautiful Frontends and Backends. Project Management, testing and Aglie advocate. 
 
 <div align="center">
