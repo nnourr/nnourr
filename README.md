@@ -8,12 +8,12 @@ in creating equally beautiful Frontends and Backends. Project Management, testin
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=nnourr&show_icons=true&theme=vue-dark&rank_icon=percentile"
     media="(prefers-color-scheme: dark)"
-    height="200" 
+    height="190" 
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=nnourr&show_icons=true&rank_icon=percentile"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    height="200" 
+    height="180" 
   />
   <img src="https://github-readme-stats.vercel.app/api?username=nnourr&show_icons=true&rank_icon=percentile" height="200"  />
 </picture>
