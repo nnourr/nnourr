@@ -17,7 +17,7 @@ in creating equally beautiful Frontends and Backends. Project Management, testin
   />
   <img src="https://github-readme-stats.vercel.app/api?username=nnourr&show_icons=true&rank_icon=percentile" height="200"  />
 </picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nnourr&hide_title=false&layout=compact&langs_count=8&theme=vue-dark&hide_border=false" height="200" alt="languages graph"  />
+<img src="https://github-stats-extended.vercel.app/api?username=nnourr&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=omni" height="200" alt="languages graph"  />
 </div>
 
 find more at [nnourr.tech](nnourr.tech)
